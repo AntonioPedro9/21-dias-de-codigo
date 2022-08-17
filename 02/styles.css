@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Maze&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  font-family: "Rubik Maze", cursive;
+}
+
+#hello-world {
+  color: #fff;
+  font-size: 192px;
+  text-align: center;
+  letter-spacing: 32px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.pink-background {
+  background-image: url("./img/wallpaper1.png");
+}
+
+.pink-neon {
+  text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px #fff, 0 0 12px #faf, 0 0 16px #faf, 0 0 24px #faf;
+}
+
+.green-background {
+  background-image: url("./img/wallpaper2.png");
+}
+
+.green-neon {
+  text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px #fff, 0 0 12px #afa, 0 0 16px #afa, 0 0 24px #afa;
+}
