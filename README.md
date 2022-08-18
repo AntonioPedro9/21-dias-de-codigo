@@ -4,7 +4,7 @@
 
 ✅ &nbsp; **[Dia 02](https://antoniopedro9.github.io/21-dias-de-codigo/02/index.html)**: Criar um Hello World customizado com fontes cores e imagens <br />
 
-🔲 &nbsp; **Dia 03**: Criar um botão animado <br />
+✅ &nbsp; **[Dia 03](https://antoniopedro9.github.io/21-dias-de-codigo/03/index.html)**: Criar um botão animado <br />
 
 🔲 &nbsp; **Dia 04**: Criar uma calculadora <br />
 

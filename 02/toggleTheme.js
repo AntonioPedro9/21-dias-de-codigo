@@ -14,6 +14,6 @@ function changeThemeToPink() {
   state = "pink";
 }
 
-hello_world.onclick = () => {
+hello_world.addEventListener("click", () => {
   state === "pink" ? changeThemeToGreen() : changeThemeToPink();
-};
+});
