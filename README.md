@@ -8,8 +8,8 @@
 
 ✅ &nbsp; **[Dia 04](https://antoniopedro9.github.io/21-dias-de-codigo/04/index.html):** Criar uma calculadora <br />
 
-🔲 &nbsp; **Dia 05:** Criar uma pagina customizada que exiba o erro 404 <br/>
+✅ &nbsp; **[Dia 05](https://antoniopedro9.github.io/21-dias-de-codigo/05/index.html):** Criar uma pagina customizada que exiba o erro 404 <br/>
 
-🔲 &nbsp; **Dia 06:** Criar um card com efeito de glassmorphism <br/>
+✅ &nbsp; **[Dia 06](https://antoniopedro9.github.io/21-dias-de-codigo/06/index.html):** Criar um card com efeito de glassmorphism <br/>
 
 🔲 &nbsp; **Dia 07:** Criar um contador <br/>
