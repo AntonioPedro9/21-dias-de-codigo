@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffeb3b;
+  background-color: #000;
+  font-family: "Silkscreen", cursive;
+  font-size: 64px;
+  overflow: hidden;
+}
+
+main {
+  text-align: center;
+}
+
+main h3 {
+  font-size: 180px;
+  text-shadow: 8px 0px 0px #ff9800;
+}
+
+main p {
+  text-shadow: 4px 0px 0px #ff9800;
+}
