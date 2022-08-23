@@ -12,4 +12,18 @@
 
 ✅ &nbsp; **[Dia 06](https://antoniopedro9.github.io/21-dias-de-codigo/06/index.html):** Criar um card com efeito de glassmorphism <br/>
 
-🔲 &nbsp; **Dia 07:** Criar um contador <br/>
+✅ &nbsp; **[Dia 07](https://antoniopedro9.github.io/21-dias-de-codigo/07/index.html):** Desenvolver um contador <br/>
+
+🔲 &nbsp; **Dia 08:** Desenvolver um toggle que altere o tema para claro e escuro <br/>
+
+🔲 &nbsp; **Dia 09:** Criar uma animação de loading <br/>
+
+🔲 &nbsp; **Dia 10:** Utilizar a biblioteca Particle.js <br/>
+
+🔲 &nbsp; **Dia 11:** Criar o layout de um formulário de login <br/>
+
+🔲 &nbsp; **Dia 12:** Desenvolver uma galeria de imagens <br/>
+
+🔲 &nbsp; **Dia 13:** Desenvolver um menu responsivo <br/>
+
+🔲 &nbsp; **Dia 14:** Criar um formulário de quizzes <br/>
