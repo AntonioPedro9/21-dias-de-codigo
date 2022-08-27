@@ -14,7 +14,7 @@
 
 ✅ &nbsp; **[Dia 07](https://antoniopedro9.github.io/21-dias-de-codigo/07/index.html):** Desenvolver um contador <br/>
 
-🔲 &nbsp; **Dia 08:** Desenvolver um toggle que altere o tema para claro e escuro <br/>
+✅ &nbsp; **[Dia 08](https://antoniopedro9.github.io/21-dias-de-codigo/08/index.html):** Desenvolver um toggle que altere o tema para claro e escuro <br/>
 
 🔲 &nbsp; **Dia 09:** Criar uma animação de loading <br/>
 
