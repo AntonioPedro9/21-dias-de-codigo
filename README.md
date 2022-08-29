@@ -16,7 +16,7 @@
 
 ✅ &nbsp; **[Dia 08](https://antoniopedro9.github.io/21-dias-de-codigo/08/index.html):** Desenvolver um toggle que altere o tema para claro e escuro <br/>
 
-🔲 &nbsp; **Dia 09:** Criar uma animação de loading <br/>
+✅ &nbsp; **[Dia 09](https://antoniopedro9.github.io/21-dias-de-codigo/09/index.html):** Criar uma animação de loading <br/>
 
 🔲 &nbsp; **Dia 10:** Utilizar a biblioteca Particle.js <br/>
 
