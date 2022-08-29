@@ -14,6 +14,7 @@ body {
   background-position: center;
   background-size: cover;
   font-family: "Rubik Maze", cursive;
+  transition: all 0.4s ease-in-out;
 }
 
 #hello-world {
@@ -23,6 +24,7 @@ body {
   letter-spacing: 32px;
   cursor: pointer;
   user-select: none;
+  transition: all 0.4s ease-in-out;
 }
 
 .pink-background {
