@@ -20,7 +20,7 @@
 
 ✅ &nbsp; **[Dia 10](https://antoniopedro9.github.io/21-dias-de-codigo/10/index.html):** Utilizar a biblioteca Particle.js <br/>
 
-🔲 &nbsp; **Dia 11:** Criar o layout de um formulário de login <br/>
+✅ &nbsp; **[Dia 11](https://antoniopedro9.github.io/21-dias-de-codigo/11/index.html):** Criar o layout de um formulário de login <br/>
 
 🔲 &nbsp; **Dia 12:** Desenvolver uma galeria de imagens <br/>
 
