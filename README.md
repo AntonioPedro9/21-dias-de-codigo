@@ -18,7 +18,7 @@
 
 ✅ &nbsp; **[Dia 09](https://antoniopedro9.github.io/21-dias-de-codigo/09/index.html):** Criar uma animação de loading <br/>
 
-🔲 &nbsp; **Dia 10:** Utilizar a biblioteca Particle.js <br/>
+✅ &nbsp; **[Dia 10](https://antoniopedro9.github.io/21-dias-de-codigo/10/index.html):** Utilizar a biblioteca Particle.js <br/>
 
 🔲 &nbsp; **Dia 11:** Criar o layout de um formulário de login <br/>
 
