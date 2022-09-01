@@ -24,6 +24,6 @@
 
 ✅ &nbsp; **[Dia 12](https://antoniopedro9.github.io/21-dias-de-codigo/12/index.html):** Desenvolver uma galeria de imagens <br/>
 
-🔲 &nbsp; **Dia 13:** Desenvolver um menu responsivo <br/>
+✅ &nbsp; **[Dia 13](https://antoniopedro9.github.io/21-dias-de-codigo/13/index.html):** Desenvolver um menu responsivo <br/>
 
 🔲 &nbsp; **Dia 14:** Criar um formulário de quizzes <br/>
