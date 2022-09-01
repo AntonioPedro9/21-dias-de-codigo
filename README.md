@@ -27,3 +27,17 @@
 ✅ &nbsp; **[Dia 13](https://antoniopedro9.github.io/21-dias-de-codigo/13/index.html):** Desenvolver um menu responsivo <br/>
 
 🔲 &nbsp; **Dia 14:** Criar um formulário de quizzes <br/>
+
+🔲 &nbsp; **Dia 15:** Desenvolver um site que exiba uma vitrine de produtos de um e-commerce <br/>
+
+🔲 &nbsp; **Dia 16:** Desenvolver um site utilizando alguma API pública <br/>
+
+🔲 &nbsp; **Dia 17:** Desenvolver um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada <br/>
+
+🔲 &nbsp; **Dia 18:** Desenvolver um gerador de senhas aleatórias <br/>
+
+🔲 &nbsp; **Dia 19:** Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash <br/>
+
+🔲 &nbsp; **Dia 20:** Desenvolver um site de emoji picker <br/>
+
+🔲 &nbsp; **Dia 21:** Desenvolver um página de portifólio <br/>
