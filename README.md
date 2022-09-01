@@ -22,7 +22,7 @@
 
 ✅ &nbsp; **[Dia 11](https://antoniopedro9.github.io/21-dias-de-codigo/11/index.html):** Criar o layout de um formulário de login <br/>
 
-🔲 &nbsp; **Dia 12:** Desenvolver uma galeria de imagens <br/>
+✅ &nbsp; **[Dia 12](https://antoniopedro9.github.io/21-dias-de-codigo/12/index.html):** Desenvolver uma galeria de imagens <br/>
 
 🔲 &nbsp; **Dia 13:** Desenvolver um menu responsivo <br/>
 
