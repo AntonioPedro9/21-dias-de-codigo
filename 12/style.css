@@ -17,7 +17,8 @@ body {
 }
 
 #gallery img {
-  height: 400px;
+  min-width: 300px;
+  max-width: 600px;
   margin: 16px;
   border-radius: 4px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.24);
