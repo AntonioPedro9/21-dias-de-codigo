@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+  font-family: "Roboto", Arial;
+  font-size: 16px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.card-header {
+  padding: 16px;
+  color: #fff;
+  background-color: #000;
+  border-radius: 8px 8px 0px 0px;
+  text-align: center;
+}
+
+.card-header .card-title {
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.card-body .option {
+  margin: 16px;
+  width: auto;
+  padding: 0px 16px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #9e9e9e;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
+.card-body .option .alternative {
+  margin-right: 16px;
+  font-weight: bold;
+}
+
+.correct-answer {
+  color: #fff;
+  background-color: #70bf50;
+  border: none !important;
+}
+
+.wrong-answer {
+  color: #fff;
+  background-color: #ee4957;
+  border: none !important;
+}

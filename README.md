@@ -26,7 +26,7 @@
 
 ✅ &nbsp; **[Dia 13](https://antoniopedro9.github.io/21-dias-de-codigo/13/index.html):** Desenvolver um menu responsivo <br/>
 
-🔲 &nbsp; **Dia 14:** Criar um formulário de quizzes <br/>
+✅ &nbsp; **[Dia 14](https://antoniopedro9.github.io/21-dias-de-codigo/14/index.html):** Criar um formulário de quizzes <br/>
 
 🔲 &nbsp; **Dia 15:** Desenvolver um site que exiba uma vitrine de produtos de um e-commerce <br/>
 
