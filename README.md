@@ -28,7 +28,7 @@
 
 ✅ &nbsp; **[Dia 14](https://antoniopedro9.github.io/21-dias-de-codigo/14/index.html):** Criar um formulário de quizzes <br/>
 
-🔲 &nbsp; **Dia 15:** Desenvolver um site que exiba uma vitrine de produtos de um e-commerce <br/>
+✅ &nbsp; **[Dia 15](https://antoniopedro9.github.io/21-dias-de-codigo/15/index.html):** Desenvolver um site que exiba uma vitrine de produtos de um e-commerce <br/>
 
 🔲 &nbsp; **Dia 16:** Desenvolver um site utilizando alguma API pública <br/>
 
