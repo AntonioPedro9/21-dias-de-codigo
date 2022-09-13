@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  background-color: #222;
+  font-family: "Roboto", Arial;
+  font-size: 16px;
+}
+
+#card-container {
+  padding: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#card-container .card {
+  width: 300px;
+  height: 400px;
+  margin: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-position: center;
+  background-size: cover;
+  background-color: #444;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.24);
+  border-radius: 2px;
+}
+
+#card-container .card .card-title {
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.24);
+  font-size: 24px;
+  letter-spacing: 0px;
+}
+
+#card-container .card .card-text {
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.24);
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}

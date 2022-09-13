@@ -30,7 +30,7 @@
 
 ✅ &nbsp; **[Dia 15](https://antoniopedro9.github.io/21-dias-de-codigo/15/index.html):** Desenvolver um site que exiba uma vitrine de produtos de um e-commerce <br/>
 
-🔲 &nbsp; **Dia 16:** Desenvolver um site utilizando alguma API pública <br/>
+✅ &nbsp; **[Dia 16](https://antoniopedro9.github.io/21-dias-de-codigo/16/index.html):** Desenvolver um site utilizando alguma API pública <br/>
 
 🔲 &nbsp; **Dia 17:** Desenvolver um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada <br/>
 
