@@ -34,7 +34,7 @@
 
 ✅ &nbsp; **[Dia 17](https://antoniopedro9.github.io/21-dias-de-codigo/17/index.html):** Desenvolver um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada <br/>
 
-🔲 &nbsp; **Dia 18:** Desenvolver um gerador de senhas aleatórias <br/>
+✅ &nbsp; **[Dia 18](https://antoniopedro9.github.io/21-dias-de-codigo/18/index.html):** Desenvolver um gerador de senhas aleatórias <br/>
 
 🔲 &nbsp; **Dia 19:** Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash <br/>
 
