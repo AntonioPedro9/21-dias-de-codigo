@@ -36,7 +36,7 @@
 
 ✅ &nbsp; **[Dia 18](https://antoniopedro9.github.io/21-dias-de-codigo/18/index.html):** Desenvolver um gerador de senhas aleatórias <br/>
 
-&nbsp; **[Dia 19](https://antoniopedro9.github.io/21-dias-de-codigo/19/index.html):** Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash <br/>
+✅ &nbsp; **[Dia 19](https://antoniopedro9.github.io/21-dias-de-codigo/19/index.html):** Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash <br/>
 
 🔲 &nbsp; **Dia 20:** Desenvolver um site de emoji picker <br/>
 
