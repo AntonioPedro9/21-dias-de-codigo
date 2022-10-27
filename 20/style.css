@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #444;
+  background-color: #fff;
+  font-family: "Roboto", Arial;
+  font-size: 16px;
+}
+
+#emojis_container {
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#emojis_container .emoji {
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  font-size: 32px;
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.2s;
+}
+
+#emojis_container .emoji:hover {
+  background-color: #f1f1f1;
+}
+
+#emojis_container .emoji:active {
+  background-color: #8bc34a;
+}
+
+h4 {
+  margin: 8px;
+  font-size: 34px;
+  font-weight: normal;
+  letter-spacing: 0.25px;
+  text-align: center;
+}

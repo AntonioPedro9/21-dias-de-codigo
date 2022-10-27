@@ -38,6 +38,6 @@
 
 ✅ &nbsp; **[Dia 19](https://antoniopedro9.github.io/21-dias-de-codigo/19/index.html):** Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash <br/>
 
-🔲 &nbsp; **Dia 20:** Desenvolver um site de emoji picker <br/>
+✅ &nbsp; **[Dia 20](https://antoniopedro9.github.io/21-dias-de-codigo/20/index.html):** Desenvolver um site de emoji picker <br/>
 
 🔲 &nbsp; **Dia 21:** Desenvolver um página de portifólio <br/>
