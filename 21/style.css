@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #444;
+  background-color: #f1f1f1;
+  background-image: url("https://i.ytimg.com/vi/_bSiyvnPF2Y/maxresdefault.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: "Roboto Slab", serif;
+  font-size: 16px;
+}
+
+.card {
+  width: 9.5cm;
+  height: 6cm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #fff;
+  background: linear-gradient(135deg, #f1f1f155 25%, transparent 25%) -4px 0/ 8px 8px,
+    linear-gradient(225deg, #f1f1f1 25%, transparent 25%) -4px 0/ 8px 8px,
+    linear-gradient(315deg, #f1f1f155 25%, transparent 25%) 0px 0/ 8px 8px,
+    linear-gradient(45deg, #f1f1f1 25%, #fff 25%) 0px 0/ 8px 8px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.24);
+}
+
+.card main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card main #align-center {
+  position: fixed;
+  top: calc(50% - 22px);
+  left: calc(50% - 112px);
+  text-align: center;
+}
+
+h6 {
+  font-size: 18px;
+  font-weight: lighter;
+  letter-spacing: 0.15px;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+}

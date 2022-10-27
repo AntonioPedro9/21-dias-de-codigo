@@ -40,4 +40,4 @@
 
 ✅ &nbsp; **[Dia 20](https://antoniopedro9.github.io/21-dias-de-codigo/20/index.html):** Desenvolver um site de emoji picker <br/>
 
-🔲 &nbsp; **Dia 21:** Desenvolver um página de portifólio <br/>
+✅ &nbsp; **[Dia 21](https://antoniopedro9.github.io/21-dias-de-codigo/21/index.html):** Desenvolver um página de portifólio <br/>
